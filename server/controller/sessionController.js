@@ -41,4 +41,3 @@ exports.startSession = (req, res, next) => {
     return next();
   })
 };
-
